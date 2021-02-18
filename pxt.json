@@ -10,7 +10,9 @@
     "files": [
         "README.md",
         "main.blocks",
-        "main.ts"
+        "main.ts",
+        "Eureka_V2_8.ts",
+        "ds18b20/ds18b20.cpp.ts"
     ],
     "testFiles": [
         "test.ts"
@@ -19,5 +21,5 @@
     "supportedTargets": [
         "microbit"
     ],
-    "preferredEditor": "blocksprj"
+    "preferredEditor": "tsprj"
 }
